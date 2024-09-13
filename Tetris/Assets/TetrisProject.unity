@@ -896,7 +896,7 @@ GameObject:
   - component: {fileID: 850382402}
   - component: {fileID: 850382401}
   m_Layer: 0
-  m_Name: Main Camera
+  m_Name: rpsDriver Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
